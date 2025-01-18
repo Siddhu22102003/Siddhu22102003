@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning cybersecurity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me siddarthwajge@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Siddhu22102003/Siddhu22102003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
